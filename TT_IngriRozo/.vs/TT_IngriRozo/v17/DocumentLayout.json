@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|c:\\users\\hp\\source\\repos\\tt_ingrirozo\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|solutionrelative:models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|c:\\users\\hp\\source\\repos\\tt_ingrirozo\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|solutionrelative:controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|c:\\users\\hp\\source\\repos\\tt_ingrirozo\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|solutionrelative:services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|c:\\users\\hp\\source\\repos\\tt_ingrirozo\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C17B17F-4EEB-4E61-A4DC-8353ADCB0BC7}|TT_IngriRozo.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarketService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Services\\MarketService.cs",
+              "RelativeDocumentMoniker": "Services\\MarketService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Services\\MarketService.cs",
+              "RelativeToolTip": "Services\\MarketService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:06:49.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:06:18.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Models\\Market.cs",
+              "RelativeDocumentMoniker": "Models\\Market.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Models\\Market.cs",
+              "RelativeToolTip": "Models\\Market.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:06:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MarketController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TT_IngriRozo\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "Controllers\\MarketController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:02:36.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
